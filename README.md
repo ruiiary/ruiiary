@@ -1,4 +1,4 @@
-# Hi there! I’m Yoonseo, also known as Rui.👋
+# Hi there! 
 👋 Hi, I’m Yoonseo, also known as Rui. <br>
 🧭 I’m passionate about Product Management and always eager to learn more. <br>
 💞️ I’m looking to collaborate on exciting projects that intersect technology and user experience. <br>
