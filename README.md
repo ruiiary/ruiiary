@@ -20,7 +20,7 @@ I’m passionate about Product Management and always eager to learn more.🧭  <
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ruiiary=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![ruiiary's GitHub stats](https://github-readme-stats.vercel.app/api?ruiiary=anuraghazra)](https://github.com/ruiiary/github-readme-stats)
 <!-- ruiiary/ruiiary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
