@@ -1,6 +1,6 @@
 # Hi there! 
-Hi, I’m Yoonseo, also known as Rui.👋 <br>
-I’m passionate about Product Management and always eager to learn more.🧭  <br>
+👋 Hi, I’m Yoonseo, also known as Rui. <br>
+🧭 I’m passionate about Product Management and always eager to learn more.  <br>
 
 ## 🍀 Interests 🍀
 💻 Frontend Development <br>
@@ -20,6 +20,7 @@ I’m passionate about Product Management and always eager to learn more.🧭  <
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiiary&layout=compact)
 <!-- ruiiary/ruiiary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
