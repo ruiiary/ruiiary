@@ -4,7 +4,6 @@
 
 ## 🍀 Interests 🍀
 💻 Frontend Development <br>
-📱 UI/UX Design with Figma <br>
 🧑‍🤝‍🧑 Product Management <br>
 
 ## ✨ Tech Stack ✨
