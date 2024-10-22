@@ -1,10 +1,10 @@
 # Hi there! 
 👋 Hi, I’m Yoonseo, also known as Rui. <br>
-🧭 I’m passionate about Product Management and always eager to learn more.  <br>
+🧭 I’m passionate about Product Management, Frontend development, and always eager to learn more.  <br>
 
 ## 🍀 Interests 🍀
 💻 Frontend Development <br>
-🧑‍🤝‍🧑 Product Management <br>
+🧑‍🤝‍🧑 Product Management(PM/PO) <br>
 
 ## ✨ Tech Stack ✨
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
