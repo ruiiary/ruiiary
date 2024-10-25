@@ -29,4 +29,6 @@
 You can click the Preview link to take a look at your changes.
 --->
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=ruiiary" alt="rui's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ruiiary" alt="Rui/Yoonseo's GitHub stats" />
+
+
