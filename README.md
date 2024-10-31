@@ -1,5 +1,3 @@
-# Hi there! 
-👋 Hi, I’m Yoonseo, also known as Rui. <br>
 
 ## 🍀 Interests 🍀
 💻 Frontend Development <br>
