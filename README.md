@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header" width="100%"/>
+</div>
 
-## ☘️ Interests 
+## ☘️ Interests ☘️
 💻 Frontend Development <br>
 🧑‍🤝‍🧑 Product Management(PM/PO) <br>
 <br>
@@ -14,8 +17,9 @@
 You can click the Preview link to take a look at your changes.
 --->
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=ruiiary" alt="Rui/Yoonseo's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ruiiary&show_icons=true&bg=FAD7A1,E96D71&title_color=5c5c5c&text_color=5c5c5c" alt="Rui/Yoonseo's GitHub stats" />
 
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=footer" width="100%"/>
+</div>
 
