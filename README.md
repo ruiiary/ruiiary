@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### ☘️ Interests 
+### 🤍 Interests 
 💻 Frontend Development <br>
 🧑‍🤝‍🧑 Product Management(PM/PO) <br>
 <br>
