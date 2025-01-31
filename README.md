@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Yoonseo&fontSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Yoonseo&fontSize=30" width="100%"/>
 </div>
 <div align="center">
 
@@ -18,7 +18,7 @@ Content Convergence / Software / Entrepreneurship
 <br>
 
 ### 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma,mysql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma,py,mysql)](https://skillicons.dev)
 
 
 <br>
