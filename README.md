@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Yoonseo(Rui)&fontSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Yoonseo(Rui)&fontSize=30" width="100%"/>
 </div>
 <div align="center">
 
