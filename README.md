@@ -4,6 +4,12 @@
 
 <div align="center">
 
+### 🏛️ Education
+Ewha Womans Univ. <br>
+Content Convergence / Software / Entrepreneurship
+<br>
+<br>
+
 ### 🤍 Interests 
 💻 Frontend Development <br>
 🧑‍🤝‍🧑 Product Management(PM/PO) <br>
