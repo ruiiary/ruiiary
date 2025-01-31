@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=110&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Yoonseo&fontSize=40" width="100%"/>
 </div>
-
 <div align="center">
 
 ### 🏛️ Education
@@ -31,7 +30,4 @@ Content Convergence / Software / Entrepreneurship
 
 </div>
 
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=110&section=footer" width="100%"/>
-</div>
+
