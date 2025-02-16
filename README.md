@@ -7,7 +7,7 @@
 
 ### 🏛️ Education
 Ewha Womans Univ. <br>
-Content Convergence / Software / Entrepreneurship
+Content Convergence / Software
 <br>
 <br>
 
