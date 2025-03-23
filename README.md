@@ -18,7 +18,7 @@ Content Convergence / Software
 <br>
 
 ### 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma,py,mysql,github,notion)](https://skillicons.dev)
 
 <br>
 <br>
